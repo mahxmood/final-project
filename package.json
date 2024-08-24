@@ -1,0 +1,19 @@
+{
+    "name": "mahmoodportfoliowebsite",
+    "description": "Simple hello world sample in Node",
+    "version": "1.0.0",
+    "private": false,
+    "main": "index.html",
+    "type": "module",
+    "scripts": {
+      "start": "node index.html"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    },
+    "author": "Mahmood Sadeghi",
+    "license": "Apache-2.0",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
