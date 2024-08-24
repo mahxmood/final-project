@@ -11,7 +11,7 @@ Live Website:  https://mahxmood.github.io/moody-musi/
 
 Required Downloads: Node.js/npm, Express.js
 
-Demo: (insert unlisted youtube link here)
+Demo: https://youtu.be/8gWY8_aZuqU
 
 Thank you for such an amazing quarter! I have learned so much! :)
 
